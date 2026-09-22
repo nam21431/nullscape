@@ -1,9 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "Owner",
         "name": "Vinh Nam",
         "link": "https://www.youtube.com/@crash-l6c"
+    },
+    {
+        "role": "owner",
+        "name": "Vinh Tien",
+        "link": "https://www.youtube.com
     },
     {
         "role": "admin",
