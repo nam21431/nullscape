@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "Free",
     "records": [
-        
+    {
+   "user": "socvinhtien",
+   "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+   "percent": 100,
+   "hz": 240
+    }
     ]
 }
